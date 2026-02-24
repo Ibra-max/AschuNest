@@ -1,0 +1,33 @@
+/* variables.css — Design Tokens für Aschunest */
+:root {
+    /* Farben */
+    --color-cream: #FAF7F2;
+    --color-cream-dark: #F2EDE4;
+    --color-warm-white: #FDFBF8;
+    --color-sand: #E8DDD0;
+    --color-sand-dark: #C9BAA8;
+    --color-terracotta: #C4724A;
+    --color-terracotta-light: #D4896A;
+    --color-brown-deep: #3D2B1F;
+    --color-brown-mid: #6B4C3B;
+    --color-brown-light: #9A7260;
+    --color-olive: #7A8C6A;
+    --color-text: #2C1F17;
+    --color-text-soft: #7A6558;
+
+    /* Schriften */
+    --font-display: 'Cormorant Garamond', serif;
+    --font-body: 'DM Sans', sans-serif;
+
+    /* Abstände */
+    --space-xs: 0.25rem;
+    --space-sm: 0.5rem;
+    --space-md: 1rem;
+    --space-lg: 2rem;
+    --space-xl: 4rem;
+}
+
+/* RTL-Unterstützung für Arabisch */
+[dir="rtl"] {
+    /* Spiegelung von Margin/Padding bei Bedarf */
+}

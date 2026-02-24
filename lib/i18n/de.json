@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "title": "Aschunest – Dein digitaler Partner",
+    "description": "Wir bauen keine Webseiten. Wir erschaffen digitale Identitäten — für Businesses, denen jedes Detail wichtig ist."
+  },
+  "nav": {
+    "services": "Leistungen",
+    "projects": "Projekte",
+    "about": "Über uns",
+    "cta": "Gespräch starten"
+  },
+  "hero": {
+    "tag": "Digitale Partnerschaft",
+    "headline1": "Dein digitales",
+    "headline2": "Erscheinungsbild,",
+    "headline3": "wie es sein sollte.",
+    "sub": "Wir bauen keine Webseiten. Wir erschaffen digitale Identitäten — für Businesses, denen jedes Detail wichtig ist.",
+    "ctaPrimary": "Zusammenarbeit beginnen",
+    "ctaGhost": "Unsere Arbeit",
+    "langDe": "Deutsch",
+    "langAr": "عربي",
+    "langSep": "Beide Märkte. Ein Partner.",
+    "badgeNoTemplate": "✦ Kein Template",
+    "badgePartnership": "🤝 Laufende Partnerschaft"
+  },
+  "cards": {
+    "card1": {
+      "name": "Yemen Palast",
+      "sub": "Gastronomie · Essen",
+      "status": "Aktiv",
+      "modules": {
+        "website": "🌐 Webseite",
+        "reserve": "📅 AschuReserve",
+        "order": "🛒 AschuOrder"
+      },
+      "footer": "Betreut seit 2025 · DE / عربي"
+    },
+    "card2": {
+      "name": "GronnoverA",
+      "sub": "Business Consulting · ES & DE",
+      "status": "Aktiv",
+      "modules": {
+        "website": "🌐 Webseite",
+        "strategy": "📊 Strategie & SEO",
+        "languages": "🌍 DE / EN / عربي"
+      },
+      "footer": "Betreut seit 2025 · Spanien & Deutschland"
+    },
+    "card3": {
+      "name": "Dein Business",
+      "sub": "Deine Branche · Dein Markt",
+      "status": "Bald",
+      "modules": {
+        "website": "🌐 Webseite",
+        "reserve": "📅 AschuReserve",
+        "order": "🛒 AschuOrder"
+      },
+      "footer": "Starte deine digitale Partnerschaft →"
+    }
+  },
+  "values": {
+    "tag": "Unsere Werte",
+    "headline1": "Was uns von einer",
+    "headline2": "Agentur unterscheidet.",
+    "items": [
+      {
+        "icon": "🤝",
+        "title": "Partnerschaft",
+        "text": "Kein einmaliges Projekt. Wir wachsen mit deinem Business — langfristig, verlässlich."
+      },
+      {
+        "icon": "✦",
+        "title": "Qualität",
+        "text": "Lieber weniger Kunden, dafür perfekt betreut. Jedes Detail zählt."
+      },
+      {
+        "icon": "🌍",
+        "title": "Kulturelle Brücke",
+        "text": "Wir verstehen beide Welten — D/A/CH und den arabischsprachigen Raum."
+      },
+      {
+        "icon": "⚡",
+        "title": "Innovation",
+        "text": "Moderne Technologie für Kunden, die sie sonst nicht hätten. Verständlich erklärt."
+      }
+    ]
+  },
+  "services": {
+    "tag": "Leistungen",
+    "headline1": "Alles aus einer Hand —",
+    "headline2": "maßgeschneidert für dich.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Webseite & Identität",
+        "desc": "Individuelles Design und Entwicklung — von Grund auf. Kein Template, keine Kompromisse. Deine Webseite existiert nur für dich."
+      },
+      {
+        "num": "02",
+        "title": "SEO & Sichtbarkeit",
+        "desc": "Teil jedes Projekts. Damit dein digitales Erscheinungsbild auch gefunden wird."
+      },
+      {
+        "num": "03",
+        "title": "Arabische Märkte erreichen",
+        "desc": "Du willst arabischsprachige Kunden oder Geschäftspartner ansprechen? Wir verstehen beide Welten — kulturell und sprachlich. Wir helfen dir, dort präsent zu sein, wo andere gar nicht erst ankommen."
+      },
+      {
+        "num": "04",
+        "title": "AschuReserve",
+        "desc": "Online-Reservierungen und Terminbuchungen — visuell vollständig in deine Marke integriert.",
+        "badge": "Modul"
+      },
+      {
+        "num": "05",
+        "title": "AschuOrder",
+        "desc": "Online-Bestellungen nahtlos in deine Webseite integriert. Kein fremdes Tool, sondern deine Marke.",
+        "badge": "Modul"
+      }
+    ]
+  },
+  "process": {
+    "tag": "So arbeiten wir",
+    "headline1": "Von der ersten Idee",
+    "headline2": "zur laufenden Partnerschaft.",
+    "steps": [
+      { "title": "Erstkontakt", "desc": "Persönliches Gespräch — wir hören zu." },
+      { "title": "Beratung", "desc": "Wir verstehen dein Business und deine Ziele." },
+      { "title": "Konzept", "desc": "Individuelles Konzept und Angebot für dich." },
+      { "title": "Umsetzung", "desc": "Design und Entwicklung — in deiner Sprache." },
+      { "title": "Partnerschaft", "desc": "Laufende Betreuung — wir bleiben an deiner Seite." }
+    ]
+  },
+  "cta": {
+    "tag": "Bereit?",
+    "headline1": "Deine digitale Identität",
+    "headline2": "wartet auf",
+    "headline3": "dich.",
+    "sub": "Lass uns gemeinsam etwas aufbauen, das zu dir passt — und mit dir wächst.",
+    "ctaPrimary": "Gespräch starten",
+    "ctaGhost": "Mehr erfahren"
+  },
+  "footer": {
+    "copyright": "D/A/CH · عربي · © 2026",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz"
+  }
+}
