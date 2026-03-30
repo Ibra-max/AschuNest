@@ -5,6 +5,7 @@ import Hero from '@/components/sections/Hero';
 import Values from '@/components/sections/Values';
 import Services from '@/components/sections/Services';
 import Process from '@/components/sections/Process';
+import Contact from '@/components/sections/Contact';
 import CTA from '@/components/sections/CTA';
 import Footer from '@/components/sections/Footer';
 
@@ -17,6 +18,7 @@ export default function Startseite() {
                 <Values />
                 <Services />
                 <Process />
+                <Contact />
                 <CTA />
             </main>
             <Footer />

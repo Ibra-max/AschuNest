@@ -144,5 +144,16 @@
     "copyright": "D/A/CH · عربي · © 2026",
     "imprint": "Impressum",
     "privacy": "Datenschutz"
+  },
+  "contact": {
+    "tag": "Kontakt",
+    "headline": "Lass uns sprechen",
+    "name": "Dein Name",
+    "email": "Deine E-Mail-Adresse",
+    "message": "Deine Nachricht",
+    "submit": "Nachricht senden",
+    "loading": "Wird gesendet...",
+    "success": "Vielen Dank! Deine Nachricht wurde erfolgreich gesendet.",
+    "error": "Es gab ein Problem beim Senden deiner Nachricht. Bitte versuche es später noch einmal."
   }
 }
